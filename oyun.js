@@ -5,8 +5,7 @@ const questions = [
         "answer": "von"
     },
     {
-        "question": "Bitte füllen Sie die Lücke aus: Udo hat sich ___ seinem Professor
-abgemeldet.",
+        "question": "Bitte füllen Sie die Lücke aus: Udo hat sich ___ seinem Professor abgemeldet.",
         "options": ["mit", "bei", "auf"],
         "answer": "bei"
     },
@@ -1070,7 +1069,6 @@ abgemeldet.",
         "options": ["in", "bei", "an"],
         "answer": "in"
     }
-
 ]
 
 let currentQuestion = 0;
