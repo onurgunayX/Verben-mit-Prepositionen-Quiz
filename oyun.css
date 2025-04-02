@@ -58,7 +58,7 @@ button {
 }
 
 .correct::after {
-    content: '✔️ Bravosimmo';
+    content: '✔️ Bravissimmo';
     color: green;
     margin-left: 10px;
 }
