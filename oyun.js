@@ -1068,6 +1068,332 @@ const questions = [
         "question": "Das Buch wird ____ viele Sprachen übersetzt.",
         "options": ["in", "bei", "an"],
         "answer": "in"
+    },
+    [
+    {
+        "question": "Das kann man nicht ____ jeden übertragen.",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Bitte überweisen Sie das Geld ____ mein Konto.",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Ich werde ihn ____ meiner Unschuld überzeugen.",
+        "options": ["von", "bei", "an"],
+        "answer": "von"
+    },
+    {
+        "question": "Heinz dreht sich ____ jeder Frau um.",
+        "options": ["nach", "bei", "an"],
+        "answer": "nach"
+    },
+    {
+        "question": "Gerd unterhält sich ____ seiner Kollegin.",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Wir unterhalten uns ____ den Film.",
+        "options": ["über", "bei", "an"],
+        "answer": "über"
+    },
+    {
+        "question": "Sie unterrichtet Marion ____ Flamencotanzen.",
+        "options": ["im", "bei", "an"],
+        "answer": "im"
+    },
+    {
+        "question": "Julia unterscheidet sich sehr ____ ihrer Schwester.",
+        "options": ["von", "bei", "an"],
+        "answer": "von"
+    },
+    {
+        "question": "Das Wasser wird ____ Bakterien untersucht.",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Leon verabredet sich ____ Maja.",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Darf ich mich ____ Ihnen verabschieden?",
+        "options": ["von", "bei", "an"],
+        "answer": "von"
+    },
+    {
+        "question": "Er hat sich ____ Positiven verändert.",
+        "options": ["zum", "bei", "an"],
+        "answer": "zum"
+    },
+    {
+        "question": "Können Sie mich ____ Herrn Mayr verbinden?",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Mit seiner Arbeit hat er viel Geld verdient.",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Heute verfügt er ____ ein großes Vermögen.",
+        "options": ["über", "bei", "an"],
+        "answer": "über"
+    },
+    {
+        "question": "Soll man sich immer ____ anderen vergleichen?",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Deine neue Liebe musst du ____ mir nicht verheimlichen.",
+        "options": ["vor", "bei", "an"],
+        "answer": "vor"
+    },
+    {
+        "question": "Ich verklage ihn ____ Schadenersatz.",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Frau Hannig verlangt ____ ihrem Rechtsanwalt.",
+        "options": ["nach", "bei", "an"],
+        "answer": "nach"
+    },
+    {
+        "question": "Die Arbeitszeit wird ____ sechs Wochentage verlängert.",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Können Sie mir das Visum ____ zwei Monate verlängern?",
+        "options": ["um", "bei", "an"],
+        "answer": "um"
+    },
+    {
+        "question": "Auf meine Freundin kann ich mich immer verlassen.",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Birgit hat sich ____ meinen Bruder verliebt.",
+        "options": ["in", "bei", "an"],
+        "answer": "in"
+    },
+    {
+        "question": "Sie will sich bald ____ ihm verloben.",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Julian vermietet die Wohnung ____ seinen Bruder.",
+        "options": ["an", "bei", "für"],
+        "answer": "an"
+    },
+    {
+        "question": "Das Buch wird ____ einem bekannten Verlag veröffentlicht.",
+        "options": ["bei", "für", "an"],
+        "answer": "bei"
+    },
+    {
+        "question": "Der Soldat wurde ____ den Feind verraten!",
+        "options": ["an", "bei", "für"],
+        "answer": "an"
+    },
+    {
+        "question": "Wir müssen den Termin ____ kommenden Freitag verschieben.",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Wir müssen das Haus ____ Feuer versichern.",
+        "options": ["gegen", "bei", "an"],
+        "answer": "gegen"
+    },
+    {
+        "question": "Versöhn dich doch ____ deiner Familie!",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Warum versteckst du dich ____ mir?",
+        "options": ["vor", "bei", "an"],
+        "answer": "vor"
+    },
+    {
+        "question": "Wie verstehst du dich ____ deinen Eltern?",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Tom versteht nichts ____ Kindern, er hat keine.",
+        "options": ["von", "bei", "an"],
+        "answer": "von"
+    },
+    {
+        "question": "Er verteidigt sich ____ die Vorwürfe.",
+        "options": ["gegen", "bei", "an"],
+        "answer": "gegen"
+    },
+    {
+        "question": "Mit unseren neuen Nachbarn vertragen wir uns super.",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Manchmal muss man ____ die Hilfe von anderen vertrauen.",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Wegen des Delikts wurde er ____ einer Geldstrafe verurteilt.",
+        "options": ["zu", "bei", "an"],
+        "answer": "zu"
+    },
+    {
+        "question": "Ich glaube, sie verwechseln mich ____ meiner Schwester.",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Thymian kann man gut ____ Lammgewürz verwenden.",
+        "options": ["als", "bei", "an"],
+        "answer": "als"
+    },
+    {
+        "question": "Ernst verzichtet ____ seinen Lottogewinn. Verrückt!",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Hast du dich ____ deine Prüfung gut vorbereitet?",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Was stellst du dir ____ einer 'Maibowle' vor?",
+        "options": ["unter", "bei", "an"],
+        "answer": "unter"
+    },
+    {
+        "question": "Sie wählten Ines ____ Klassensprecherin.",
+        "options": ["zur", "bei", "an"],
+        "answer": "zur"
+    },
+    {
+        "question": "Die Meteorologen warnen ____ starken Regenfällen.",
+        "options": ["vor", "bei", "an"],
+        "answer": "vor"
+    },
+    {
+        "question": "Ich musste eine Stunde ____ meinen Bruder warten.",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Warte noch ____ deiner Kündigung!",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Du musst dich ____ diese Ungerechtigkeit wehren.",
+        "options": ["gegen", "bei", "an"],
+        "answer": "gegen"
+    },
+    {
+        "question": "Andi weinte sehr ____ den Tod seiner Mutter.",
+        "options": ["über", "bei", "an"],
+        "answer": "über"
+    },
+    {
+        "question": "Der Polizist gab die Information ____ die Presse weiter.",
+        "options": ["an", "bei", "für"],
+        "answer": "an"
+    },
+    {
+        "question": "Die Firma wirbt ____ ihren neuen Computer.",
+        "options": ["für", "bei", "an"],
+        "answer": "für"
+    },
+    {
+        "question": "Was ist denn ____ deiner Freundin Sandra geworden?",
+        "options": ["aus", "bei", "an"],
+        "answer": "aus"
+    },
+    {
+        "question": "Das kann noch ____ einem Problem werden.",
+        "options": ["zu", "bei", "an"],
+        "answer": "zu"
+    },
+    {
+        "question": "Ich wette ____ dir um eine Flasche Wein, dass das stimmt!",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Was weißt du ____ den Skandal?",
+        "options": ["über", "bei", "an"],
+        "answer": "über"
+    },
+    {
+        "question": "Von diesem Geheimnis weiß ich gar nichts.",
+        "options": ["von", "bei", "an"],
+        "answer": "von"
+    },
+    {
+        "question": "Man wundert sich oft ____ die Geduld von Eltern.",
+        "options": ["über", "bei", "an"],
+        "answer": "über"
+    },
+    {
+        "question": "Ich zahle ____ den Schaden.",
+        "options": ["für", "bei", "an"],
+        "answer": "für"
+    },
+    {
+        "question": "Wir zählen ____ dich!",
+        "options": ["auf", "bei", "an"],
+        "answer": "auf"
+    },
+    {
+        "question": "Er zögert noch ____ seiner Entscheidung.",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Mit meinem Leben bin ich sehr zufrieden.",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Wie kommst du ____ deiner neuen Kollegin zurecht?",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Deine schlechte Laune hängt ____ der Arbeit zusammen.",
+        "options": ["mit", "bei", "an"],
+        "answer": "mit"
+    },
+    {
+        "question": "Siehst du mir heute ____ Training zu?",
+        "options": ["beim", "für", "an"],
+        "answer": "beim"
+    },
+    {
+        "question": "Sie zweifelt ____ seiner Geschichte.",
+        "options": ["an", "bei", "für"],
+        "answer": "an"
+    },
+    {
+        "question": "Man kann niemanden ____ seinem Glück zwingen.",
+        "options": ["zu", "bei", "an"],
+        "answer": "zu"
     }
 ]
 
