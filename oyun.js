@@ -1069,7 +1069,6 @@ const questions = [
         "options": ["in", "bei", "an"],
         "answer": "in"
     },
-    [
     {
         "question": "Das kann man nicht ____ jeden übertragen.",
         "options": ["auf", "bei", "an"],
