@@ -1395,7 +1395,7 @@ const questions = [
         "options": ["zu", "bei", "an"],
         "answer": "zu"
     }
-]
+];
 
 let currentQuestion = 0;
 
